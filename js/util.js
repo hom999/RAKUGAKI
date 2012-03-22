@@ -4,26 +4,18 @@
  * Time: 14:16
  */
 
-var RAKUGAKI = RAKUGAKI || {};
+(function(){
 
-RAKUGAKI.namespace = function (ns_string) {
-    var parts   = ns_string.split('.'),
-        parent  = RAKUGAKI,
-        i, m    = parts.length;
+    var util = RAKUGAKI.namespace('RAKUGAKI.util');
 
-    if (parts[0] === "RAKUGAKI") {
-        parts = parts.slice(1);
+    //オブジェクトのクローンを作成
+    Object.create = function(s) {
+        function f () {};
+        f.prototype = s;
+        return new f();
     }
 
-    for (i = 0; i < m; i += 1) {
-        // プロパティが存在しなければ作成する
-        if (typeof parent[parts[i]] === "undefined") {
-            parent[parts[i]] = {};
-        }
-        parent = parent[parts[i]];
-    }
-    return parent;
-};
+})();
 
 
 
