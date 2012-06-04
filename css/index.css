@@ -1,0 +1,31 @@
+/* CSS Document */
+
+
+body{
+	marigin:10px;
+	font-size:12px;
+	font-color:#CCCCCC;
+	width:320px;
+}
+
+img{
+	background:#ffffff url(../img/tumblr_loading.gif) no-repeat center;
+	vertical-align:bottom;
+}
+
+
+
+.post_photo{
+	-webkit-border-radius: 10px;    /* Safari,Google Chrome用 */  
+    -moz-border-radius: 10px;   /* Firefox用 */  	
+	background-color:#eeeeee;/**/
+	margin: 10px;
+	padding:10px;
+	
+}
+
+.post_quote{
+	
+	
+	
+}

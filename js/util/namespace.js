@@ -1,7 +1,8 @@
 /**
- * User: okazaki
- * Date: 12/03/22
- * Time: 17:16
+ * 名前空間を作成する
+ * ドットシンタックスで指定。存在しなければ作成し、あれば現状のものを優先する
+ * @parameter ns_string like RAKUGAKI.unit.template ...
+ * @author okazaki
  */
 var RAKUGAKI = RAKUGAKI || {};
 RAKUGAKI.namespace = function (ns_string) {
@@ -14,11 +15,16 @@ RAKUGAKI.namespace = function (ns_string) {
     }
 
     for (i = 0; i < m; i += 1) {
-        //プロパティが存在しなければ作成する
+        //名前空間が存在しなければ作成する
         if (typeof parent[parts[i]] === "undefined") {
             parent[parts[i]] = {};
         }
         parent = parent[parts[i]];
     }
+    //最下の名前空間の参照を返す
     return parent;
 };
+
+RAKUGAKI.namespace('scene.main');
+RAKUGAKI.namespace('util');
+
