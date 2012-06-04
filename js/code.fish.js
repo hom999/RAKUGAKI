@@ -19,12 +19,12 @@ var ball = {
 };
 
 
-var cf {
+var cf = {
     canvas:'',
     ctx:'',
     rate:24,
     
-    ball = {
+    ball : {
         x:0,
         y:0,
         radius:3,

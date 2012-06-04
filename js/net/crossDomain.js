@@ -14,11 +14,11 @@ var MEMBERS = OkaUtils.prototype;
 MEMBERS.setName = function(name)
 {
 	this.name = name;
-}
+};
 MEMBERS.getName = function()
 {
 	return this.name;
-}
+};
 
 /**
  * postによるクロスドメイン通信
@@ -76,8 +76,7 @@ MEMBERS.crossDomainGet = function (url,data )
   if( data != null )
   {
   	_url += "?";
- 	 for(var prop in data) _url += prop + "=" + data[prop] + "&
-";
+ 	 for(var prop in data) _url += prop + "=" + data[prop] + "&";
   }
   script.src=_url;
   script.onload=function ()
