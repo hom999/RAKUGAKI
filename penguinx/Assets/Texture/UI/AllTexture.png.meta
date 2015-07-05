@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 81305bfe21cd546adad4eeaa5abce20e
+timeCreated: 1430586039
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AllTexture_0
+    21300002: AllTexture_1
+    21300004: AllTexture_2
+    21300006: AllTexture_3
+    21300008: AllTexture_4
+    21300010: AllTexture_5
+    21300012: AllTexture_6
+    21300014: AllTexture_7
+    21300016: AllTexture_8
+    21300018: AllTexture_9
+    21300020: AllTexture_10
+    21300022: AllTexture_11
+    21300024: AllTexture_12
+    21300026: AllTexture_13
+    21300028: AllTexture_14
+    21300030: AllTexture_15
+    21300032: AllTexture_16
+    21300034: AllTexture_17
+    21300036: AllTexture_18
+    21300038: AllTexture_19
+    21300040: AllTexture_20
+    21300042: AllTexture_21
+    21300044: AllTexture_22
+    21300046: AllTexture_23
+    21300048: AllTexture_24
+    21300050: AllTexture_25
+    21300052: AllTexture_26
+    21300054: AllTexture_27
+    21300056: AllTexture_28
+    21300058: AllTexture_29
+    21300060: AllTexture_30
+    21300062: AllTexture_31
+    21300064: AllTexture_32
+    21300066: AllTexture_33
+    21300068: AllTexture_34
+    21300070: AllTexture_35
+    21300072: AllTexture_36
+    21300074: AllTexture_37
+    21300076: AllTexture_38
+    21300078: AllTexture_39
+    21300080: AllTexture_40
+    21300082: AllTexture_41
+    21300084: AllTexture_42
+    21300086: AllTexture_43
+    21300088: AllTexture_44
+    21300090: AllTexture_45
+    21300092: AllTexture_46
+    21300094: AllTexture_47
+    21300096: AllTexture_48
+    21300098: AllTexture_49
+    21300100: AllTexture_50
+    21300102: AllTexture_51
+    21300104: AllTexture_52
+    21300106: AllTexture_53
+    21300108: AllTexture_54
+    21300110: AllTexture_55
+    21300112: AllTexture_56
+    21300114: AllTexture_57
+    21300116: AllTexture_58
+    21300118: AllTexture_59
+    21300120: AllTexture_60
+    21300122: AllTexture_61
+    21300124: AllTexture_62
+    21300126: AllTexture_63
+    21300128: AllTexture_64
+    21300130: AllTexture_65
+    21300132: AllTexture_66
+    21300134: AllTexture_67
+    21300136: AllTexture_68
+    21300138: AllTexture_69
+    21300140: AllTexture_70
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AllTexture_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 454
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 426
+        width: 77
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 409
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 409
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 409
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 105
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 371
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 346
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 346
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 346
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 353
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 337
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 337
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 337
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_53
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 308
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 308
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 308
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 308
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_68
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllTexture_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
