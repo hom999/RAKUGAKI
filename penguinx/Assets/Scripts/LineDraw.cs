@@ -5,7 +5,9 @@ using UnityEngine.UI;
 
 public class LineDraw : MonoBehaviour {
 
-	private float addedValue = 100f;
+	private bool kanikani;
+
+
 
 	private List<Point> points = new List<Point>();
 	public int pointCnt = 100;
