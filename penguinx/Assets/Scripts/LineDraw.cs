@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class LineDraw : MonoBehaviour {
 
-	private bool kanikani;
+	private bool kanikanikanikani;
 
 
 
