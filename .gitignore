@@ -1,6 +1,11 @@
 *.csproj
 *.sln
 *.apk
-Temp/
-Library/
+penguinx/Temp/
+penguinx/Library/
+penguinx/Assets/
+
+
+*.cs
+
 
