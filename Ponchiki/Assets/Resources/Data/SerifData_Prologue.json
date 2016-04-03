@@ -1,0 +1,14 @@
+{
+  "Serifs" :[
+    {
+      "SerifType": "plaine",
+      "SerifText": "ここはどこだろう"
+    },
+    {
+      "SerifType": "Select",
+      "SerifText": "どうして？",
+      "Selection1": "はい",
+      "Selection2": "いいえ",
+    }
+  ]
+}

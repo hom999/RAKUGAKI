@@ -1,0 +1,17 @@
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/UnityEngine.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/UnityEditor.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ponkichi/github/Ponkichi/Ponchiki/Temp/bin/Debug/Mono.Cecil.Mdb.dll

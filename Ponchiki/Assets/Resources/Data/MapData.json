@@ -1,0 +1,19 @@
+//マップデザインタイプ　（森:A、平原:A、特殊（イベントマップなど）:X）
+//エンカウント割合
+//
+{
+  [
+    [
+      "MDDId" : "MDD_Towon_001_0_0",//Map detail id
+    ],
+    [
+      "MDDId" : "MDD_Towon_001_0_1",//Map detail id
+    ],
+    [
+      "MDDId" : "MDD_Towon_001_0_2",//Map detail id
+    ],
+    [
+      "MDDId" : "MDD_Towon_001_0_3",//Map detail id
+    ]
+  ]
+}
