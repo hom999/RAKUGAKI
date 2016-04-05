@@ -23,13 +23,13 @@ public class Ponkichi : MonoBehaviour {
         
         
         
-        var textAsset = Resources.Load ("Data/AI_Reply_List") as TextAsset;
-		var jsonText = textAsset.text;
+        // var textAsset = Resources.Load ("Data/AI_Reply_List") as TextAsset;
+		// var jsonText = textAsset.text;
 
-		//文字列を json に合わせて構成された辞書に変換
-		var json = Json.Deserialize (jsonText) as Dictionary<string, object>;
-		IList lll = (IList)json ["０"];
-		Debug.Log(lll[0]);
+		// //文字列を json に合わせて構成された辞書に変換
+		// var json = Json.Deserialize (jsonText) as Dictionary<string, object>;
+		// IList lll = (IList)json ["０"];
+		// Debug.Log(lll[0]);
         
         
 	}
@@ -40,6 +40,8 @@ public class Ponkichi : MonoBehaviour {
 	}
     
     public void thinkReplay(string words){
+        Debug.Log(words);
+        
         
         string replay = "それはいっちゃだめだろ";
         
